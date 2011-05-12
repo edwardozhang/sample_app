@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ruby on Rails | Contact</title>
+	</head>
+	<body>
+		<h1>Sample App</h1>
+		<p>
+			This is the Contact page
+		</p>
+	</body>
+</html>

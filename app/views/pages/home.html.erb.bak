@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ruby on Rails tut sample app | <%= @title %></title>
+	</head>
+	<body>
+		<h1>Sample App</h1>
+		<p>
+			This is the home page
+		</p>
+	</body>
+
+</html>
